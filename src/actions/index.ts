@@ -1,5 +1,3 @@
-import getAuthStatus from "./get-auth-status";
+import { getAuthStatus } from "./get-auth-status";
 
-export {
-    getAuthStatus,
-}
+export { getAuthStatus } from "./get-auth-status";
